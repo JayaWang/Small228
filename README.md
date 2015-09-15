@@ -1,2 +1,3 @@
 # Small228
 Build my first personal website -.-
+First of all, I have to learn how to use github...
